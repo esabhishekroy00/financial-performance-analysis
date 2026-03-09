@@ -142,13 +142,6 @@ python financial_analysis.py
 
 ---
 
-# Future Improvements
-
-* Add **automated data pipeline**
-* Integrate **real-time financial datasets**
-* Deploy dashboard using **Power BI Service**
-
----
 
 # Author
 
