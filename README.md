@@ -142,16 +142,6 @@ python financial_analysis.py
 
 ---
 
-# Dashboard Preview
-
-Add your Power BI dashboard screenshot here:
-
-```
-images/dashboard_preview.png
-```
-
----
-
 # Future Improvements
 
 * Add **automated data pipeline**
