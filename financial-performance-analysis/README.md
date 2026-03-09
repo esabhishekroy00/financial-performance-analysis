@@ -26,8 +26,8 @@ financial-performance-analysis
 │
 ├── data
 │   ├── financial_data.csv
-│   ├── clean_financial_data.csv
-│   └── financial_analysis_output.csv
+│   
+│
 │
 ├── python
 │   ├── data_cleaning.py
@@ -123,3 +123,4 @@ A Power BI dashboard is created to visualize:
 
    * `data_cleaning.py`
    * `financ
+
